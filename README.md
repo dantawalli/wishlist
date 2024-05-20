@@ -17,6 +17,10 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 -   [LinkedIn](https://www.linkedin.com/in/dantawalli)
 -   [Twitter](https://twitter.com/buharinasir1996)
 
+## Live Demo
+visit: https://wishlist-buharinasir.netlify.app/
+
+
 
 ## Run Locally
 
